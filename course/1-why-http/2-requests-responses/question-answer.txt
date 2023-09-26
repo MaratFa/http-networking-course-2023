@@ -1,0 +1,12 @@
+Question:
+
+Which comes first?
+- HTTP Response;
+- HTTP Request.
+
+
+
+
+Answer:
+
+HTTP Request
