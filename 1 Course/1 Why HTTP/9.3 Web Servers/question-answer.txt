@@ -1,0 +1,7 @@
+Question:
+Any computer can be a server, but the best servers are special made for serving data
+
+
+
+Answer:
+True

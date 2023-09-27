@@ -1,0 +1,7 @@
+Question:
+A server is the ____ of an application
+
+
+
+Answer:
+Back-end

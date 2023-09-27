@@ -1,0 +1,7 @@
+Question:
+The 'front-end' of a website is a...
+
+
+
+Answer:
+Web client

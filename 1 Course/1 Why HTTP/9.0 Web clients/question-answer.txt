@@ -1,0 +1,7 @@
+Question:
+A mobile phone is often used as an...
+
+
+
+Answer:
+HTTP client
