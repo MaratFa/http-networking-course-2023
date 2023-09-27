@@ -1,9 +1,4 @@
 {
   "question": "Website data is requested via which internet communication protocol?",
-  "answers": [
-    "HTTP",
-    "UDP",
-    "RabbitMQ",
-    "PSQL"
-  ]
+  "answer": ["HTTP"]
 }
