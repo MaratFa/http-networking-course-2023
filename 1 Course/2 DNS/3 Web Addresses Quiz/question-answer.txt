@@ -1,0 +1,7 @@
+Question:
+Why don't we require users to type in IP addresses directly to browse the web?
+
+
+
+Answer:
+"Domain names are easier for humans to remember, it's a better user experience"
