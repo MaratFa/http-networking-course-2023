@@ -1,0 +1,7 @@
+Question:
+DNS is a/an ____
+
+
+
+Answer:
+System that converts domain names to ip addresses
