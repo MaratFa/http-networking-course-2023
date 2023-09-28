@@ -1,0 +1,6 @@
+Question:
+All URLs are URIs
+
+
+Answer:
+True
