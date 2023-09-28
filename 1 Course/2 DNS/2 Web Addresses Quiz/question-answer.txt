@@ -1,0 +1,7 @@
+Question:
+Which is a human readable label that converts to an IP address?
+
+
+
+Answer:
+A domain name
