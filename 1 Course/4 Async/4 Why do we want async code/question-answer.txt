@@ -1,0 +1,6 @@
+Question:
+Async code should ____.
+
+
+Answer:
+only be used for performance reasons
