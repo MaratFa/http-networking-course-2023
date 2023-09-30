@@ -1,0 +1,6 @@
+Question:
+Query parameters are required in a URL
+
+
+Answer:
+False
