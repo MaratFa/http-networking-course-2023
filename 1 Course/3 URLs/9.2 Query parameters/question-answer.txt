@@ -1,0 +1,6 @@
+Question:
+In a website, query parameters RARELY change ____
+
+
+Answer:
+Which page is served
