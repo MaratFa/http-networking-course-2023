@@ -1,0 +1,6 @@
+Question:
+Promises are the only way to write async JavaScript
+
+
+Answer:
+False
