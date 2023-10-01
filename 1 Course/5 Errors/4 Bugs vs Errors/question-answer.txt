@@ -1,0 +1,6 @@
+Question:
+A 'debugger' is required to debug a program
+
+
+Answer:
+False
