@@ -1,0 +1,6 @@
+Question:
+Which would be considered I/O?
+
+
+Answer:
+An HTTP request
