@@ -1,0 +1,6 @@
+Question:
+'async' can be used in place of ____ and 'await' can be used in place of ____.
+
+
+Answer:
+New Promise(), .then
