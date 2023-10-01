@@ -1,0 +1,6 @@
+Question:
+____ is generally the cleaner syntax
+
+
+Answer:
+async/await
