@@ -1,0 +1,6 @@
+Question:
+You can use the developer tools to view responses to your clients requests
+
+
+Answer:
+True
