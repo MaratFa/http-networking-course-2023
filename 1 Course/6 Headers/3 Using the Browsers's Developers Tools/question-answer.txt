@@ -1,0 +1,6 @@
+Question:
+About how long do most of the network requests take? Keep in mind, this is the time it takes your browser to reach Boot.dev's servers over the internet.
+
+
+Answer:
+100ms
