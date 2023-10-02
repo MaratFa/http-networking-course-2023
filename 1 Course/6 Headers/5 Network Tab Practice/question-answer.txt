@@ -1,0 +1,6 @@
+Question:
+Header values are always numbers
+
+
+Answer:
+False
