@@ -1,0 +1,6 @@
+Question:
+The 'Status Code' header on the requests have ____ values.
+
+
+Answer:
+Numeric
