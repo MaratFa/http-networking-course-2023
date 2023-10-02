@@ -1,0 +1,6 @@
+Question:
+What is one of the values you see in the 'Response Headers' for the 'content-type' key? You might have to look at several requests.
+
+
+Answer:
+application/json
