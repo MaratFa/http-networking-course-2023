@@ -1,0 +1,6 @@
+Question:
+XML is ____ verbose than JSON.
+
+
+Answer:
+More
