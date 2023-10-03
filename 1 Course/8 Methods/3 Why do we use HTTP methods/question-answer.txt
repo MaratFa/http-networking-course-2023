@@ -1,0 +1,5 @@
+Question:
+To update a user account, I would probably use a ____ request
+
+Answer:
+POST
