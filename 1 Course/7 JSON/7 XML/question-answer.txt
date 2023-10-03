@@ -1,0 +1,6 @@
+Question:
+XML and ____ serve similar purposes
+
+
+Answer:
+JSON
