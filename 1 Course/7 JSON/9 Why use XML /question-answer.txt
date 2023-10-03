@@ -1,0 +1,6 @@
+Question:
+Which should you prefer to use?
+
+
+Answer:
+JSON
