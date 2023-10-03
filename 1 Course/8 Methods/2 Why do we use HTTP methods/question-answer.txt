@@ -1,0 +1,5 @@
+Question:
+HTTP methods map to crud actions ____
+
+Answer:
+By convention
