@@ -1,0 +1,6 @@
+Question:
+JSON can only be used by JavaScript programs
+
+
+Answer:
+False
