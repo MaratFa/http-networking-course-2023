@@ -1,0 +1,6 @@
+Question:
+JSON is a ____
+
+
+Answer:
+Format for communicating and storing data
