@@ -1,0 +1,5 @@
+Question:
+A successful response returns a ____ status code
+
+Answer:
+2XX
