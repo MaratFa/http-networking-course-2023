@@ -3,3 +3,4 @@ The purpose of status codes is to ____
 
 
 Answer:
+Inform the client about whether or not the request was successful
