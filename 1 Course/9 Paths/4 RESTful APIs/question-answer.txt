@@ -1,0 +1,5 @@
+Question:
+The ____ part of a URL path typically denotes the resource
+
+Answer:
+Last
