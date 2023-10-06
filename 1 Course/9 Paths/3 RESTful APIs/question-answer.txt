@@ -1,0 +1,5 @@
+Question:
+Does a backend server need to adhere to RESTful standards?
+
+Answer:
+No, but it's a common convention designed to create better APIs
