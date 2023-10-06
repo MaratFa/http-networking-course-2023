@@ -1,0 +1,6 @@
+Question:
+PUT typically updates _____ while PATCH updates ____
+
+
+Answer:
+Entire resource, a partial resource
