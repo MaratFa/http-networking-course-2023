@@ -1,0 +1,5 @@
+Question:
+HTTPS is essentially the same as HTTP with some additional security
+
+Answer:
+True
